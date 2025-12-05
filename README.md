@@ -1,1 +1,1 @@
-# -KT-Tech-Up-
+# KT-Tech-Up
